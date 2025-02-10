@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @TopDP7
-- 👀 I’m interested in programming on GO 
-- 🌱 I’m currently learning GO
+- 👋 Hi, I’m @TopDP7  Python Developer | Django, Flask, SQL, APIs, Web Scraping
+- 👀 I’m interested in programming on GO , Python 
+- 🌱 I’m currently learning GO , But already confident with the Python language.
+- I am a skilled Python Developer with experience in Django, Flask, SQL, NoSQL, APIs, and Web Scraping.
+- My expertise allows me to build efficient, scalable, and high-performance solutions for various business needs.
 - 💞️ I’m looking to collaborate on something interesting
 
 <!---
